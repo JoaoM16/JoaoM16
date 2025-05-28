@@ -1,16 +1,24 @@
-## Hi there 👋
+# Sobre Mim  
 
-<!--
-**JoaoM16/JoaoM16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é João Marcos, e sou um desenvolvedor iniciante apaixonado por tecnologia, inovação e aprendizado contínuo.  
 
-Here are some ideas to get you started:
+## Perfil  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Especializações:** desenvolvimento web  
+- **Habilidades principais:**
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+- **Experiência:** em 2024 conclui o curso "Assistente em Desenvolvimento Web" na instituição de ensino SENAI, realizei alguns projetos interessantes onde pude desenvolver habilidades em HTML, CSS e um pouco e JavaScript. Fui apresentado a outras tecnologias como MySQL e PHP.
+
+## Objetivos  
+
+Desejo aprender mais e aprimorar minhas habilidades, meu sonho é ser um ótimo programador.  
+
+## Contato  
+
+- **Email:** joaomarcoskrm@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/joao-marcos-alves-oliveira-in  
+- **GitHub:** https://github.com/JoaoM16 
+
+Fique à vontade para explorar meus projetos ou entrar em contato! 
