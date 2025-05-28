@@ -6,9 +6,9 @@ Olá! Meu nome é João Marcos, e sou um desenvolvedor iniciante apaixonado por 
 
 - **Especializações:** desenvolvimento web  
 - **Habilidades principais:**
-<img width='50' height='50' src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img width='50' height='50' src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />" />
+<img width='50' height='50' src= https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img width='50' height='50' src= https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img width='50' height='50' src= https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 - **Experiência:** em 2024 conclui o curso "Assistente em Desenvolvimento Web" na instituição de ensino SENAI, realizei alguns projetos interessantes onde pude desenvolver habilidades em HTML, CSS e um pouco e JavaScript. Fui apresentado a outras tecnologias como MySQL e PHP.
 Em 2025 iniciei minha graduação em Engenharia de Software.
 
